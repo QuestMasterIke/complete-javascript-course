@@ -9,7 +9,3 @@ function Question (question,answers,correct){
 var q1 =new Question("Hello...?",["No","World","Nico"],1);
 
 var questions=[q1];
-
-
-
-Hello?
